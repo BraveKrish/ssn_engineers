@@ -168,7 +168,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <p class="fw-medium text-uppercase text-primary mb-2">About Us</p>
+                    <p class="fw-medium text-uppercase text-primary mb-2">About SSN Engineers</p>
                     <h1 class="display-5 mb-4">We lead in providing exceptional engineering solutions for construction and infrastructure.</h1>
                     <p class="mb-4">At SSN Engineers, we are committed to delivering the highest standards of engineering services. Our collaborative approach, attention to detail, and commitment to excellence ensure that we meet our clients’ needs efficiently and effectively. Whether you are planning a new construction project or enhancing an existing one, we are here to provide the engineering solutions that make your vision a reality.
                     </p>
