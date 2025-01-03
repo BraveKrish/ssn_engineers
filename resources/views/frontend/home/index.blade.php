@@ -114,8 +114,7 @@
                                 <div class="col-lg-10 text-start">
                                     <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight">25 Years
                                         of Working Experience</p>
-                                    <h1 class="display-1 text-white mb-5 animated slideInRight">Industrial Solution
-                                        Providing Company</h1>
+                                    <h1 class="display-1 text-white mb-5 animated slideInRight">Crafting Spaces with Precision and Care</h1>
                                     <a href="" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>
                                 </div>
                             </div>
